@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "124d0a51499bb0b10346c62ef4cc753f",
+    "revision": "e554684e4b1b5c41691d4980695b18e8",
     "url": "/index.html"
   },
   {
-    "revision": "35637504b5257e6cfacd",
-    "url": "/static/css/main.9ab90dd2.chunk.css"
+    "revision": "78c10a4193806c7fb2cc",
+    "url": "/static/css/main.c21ff042.chunk.css"
   },
   {
     "revision": "58a64a3a208313976737",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.cc9975e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35637504b5257e6cfacd",
-    "url": "/static/js/main.21195807.chunk.js"
+    "revision": "78c10a4193806c7fb2cc",
+    "url": "/static/js/main.4a2a448a.chunk.js"
   },
   {
     "revision": "9fc1b2ebbbabe255ca0e",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8d5694f660709021fcbbd7cd2507a9e8",
     "url": "/static/media/dice-button.8d5694f6.svg"
+  },
+  {
+    "revision": "8f03b22c356a1ce5bd6559bb2e7381e6",
+    "url": "/static/media/donate-icon.8f03b22c.svg"
   },
   {
     "revision": "812c50feba26633cc29d5187b2305dc5",
