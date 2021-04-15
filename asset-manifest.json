@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9b26bdc.chunk.css",
+    "main.css": "/static/css/main.f0922fde.chunk.css",
     "main.js": "/static/js/main.4a934165.chunk.js",
     "main.js.map": "/static/js/main.4a934165.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9a566bfa.js",
@@ -8,9 +8,9 @@
     "static/js/2.4b737599.chunk.js": "/static/js/2.4b737599.chunk.js",
     "static/js/2.4b737599.chunk.js.map": "/static/js/2.4b737599.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e0b84189abb41bc516e675b125e04345.js": "/precache-manifest.e0b84189abb41bc516e675b125e04345.js",
+    "precache-manifest.d5e6d918646a6b1d08fddb61b5788c1f.js": "/precache-manifest.d5e6d918646a6b1d08fddb61b5788c1f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f9b26bdc.chunk.css.map": "/static/css/main.f9b26bdc.chunk.css.map",
+    "static/css/main.f0922fde.chunk.css.map": "/static/css/main.f0922fde.chunk.css.map",
     "static/js/2.4b737599.chunk.js.LICENSE.txt": "/static/js/2.4b737599.chunk.js.LICENSE.txt",
     "static/media/delete-button.7ce6f55c.svg": "/static/media/delete-button.7ce6f55c.svg",
     "static/media/dice-button.8d5694f6.svg": "/static/media/dice-button.8d5694f6.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.9a566bfa.js",
     "static/js/2.4b737599.chunk.js",
-    "static/css/main.f9b26bdc.chunk.css",
+    "static/css/main.f0922fde.chunk.css",
     "static/js/main.4a934165.chunk.js"
   ]
 }
